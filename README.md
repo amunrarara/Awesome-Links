@@ -5,7 +5,13 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 # Utilities / Tools
 
-### TinyWow - A disproportionate amount of awesome web tools (very useful!) | https://tinywow.com
+#### TinyWow - A disproportionate amount of awesome web tools (very useful!) | https://tinywow.com
+
+#### Back4App - A huge collection of public databases and APIs | https://www.back4app.com/
+
+#### OpenSourceAlternative | https://opensourcealternative.to
+
+#### WolframAlpha - Lots and lots of calculators | https://www.wolframalpha.com
 
 # CSS
 
