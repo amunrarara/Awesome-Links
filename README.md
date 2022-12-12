@@ -13,6 +13,8 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 #### WolframAlpha - Lots and lots of calculators | https://www.wolframalpha.com
 
+#### Scribe - Record any process and turn it into a training manual in seconds | https://scribehow.com
+
 # CSS
 
 ### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
