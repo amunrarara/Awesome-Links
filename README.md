@@ -18,3 +18,7 @@ A collection of links that I've found incredibly useful during my journey as a d
 # CSS
 
 ### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
+
+# Design
+
+### ColorDesigner.io | https://colordesigner.io
