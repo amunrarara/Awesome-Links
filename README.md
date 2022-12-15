@@ -19,12 +19,12 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 # CSS
 
-### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
+#### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
 
 # Design
 
-### ColorDesigner.io | https://colordesigner.io
+#### ColorDesigner.io | https://colordesigner.io
 
-### Codepen.io | An awesome source for frontend code snippets | https://codepen.io
+#### Codepen.io | An awesome source for frontend code snippets | https://codepen.io
 
-### Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
+#### Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
