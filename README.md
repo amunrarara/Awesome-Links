@@ -38,3 +38,5 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 #### Fauna | https://fauna.com
 
 #### SurrealDB | https://surrealdb.com
+
+#### Xata | https://xata.io
