@@ -28,3 +28,13 @@ A collection of links that I've found incredibly useful during my journey as a d
 #### Codepen.io | An awesome source for frontend code snippets | https://codepen.io
 
 #### Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
+
+# Database Solutions
+
+There's just so many in this world... Here's a few I'm keeping my eye on:
+
+#### EdgeDB | https://www.edgedb.com
+
+#### Fauna | https://fauna.com
+
+#### SurrealDB | https://surrealdb.com
