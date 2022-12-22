@@ -17,6 +17,8 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 #### OneLook - Dictionary and Thesaurus | https://onelook.com/
 
+#### DiceBear Avatars | Avatar Generator API with lots of styles | https://avatars.dicebear.com
+
 # CSS
 
 #### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
