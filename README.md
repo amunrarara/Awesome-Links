@@ -19,6 +19,8 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 #### DiceBear Avatars | Avatar Generator API with lots of styles | https://avatars.dicebear.com
 
+#### Social Sizes | Sizes for popular social media banners, images, etc. | https://socialsizes.io
+
 # CSS
 
 #### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
