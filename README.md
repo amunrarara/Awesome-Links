@@ -49,3 +49,12 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 # Typescript / JS Libraries
 
 #### Zod | Schema Declarations and Validations - Validate anything |  https://zod.dev 
+
+
+# Inspiration
+
+#### Awwwards | Award-winning websites | https://awwwards.com
+
+#### Httpster | Web design inspirations | https://httpster.net
+
+#### Behance | Designs and more | https://behance.net
