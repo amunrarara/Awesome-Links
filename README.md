@@ -3,6 +3,10 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 ---
 
+# Programming Discipline
+
+#### Patterns.dev | Programming design patterns, through the lens of JavaScript | https://patterns.dev
+
 # Utilities / Tools
 
 #### TinyWow - A disproportionate amount of awesome web tools (very useful!) | https://tinywow.com
