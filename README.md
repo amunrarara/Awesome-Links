@@ -7,6 +7,7 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 #### Patterns.dev | Programming design patterns, through the lens of JavaScript | https://patterns.dev
 
+
 # Utilities / Tools
 
 #### TinyWow - A disproportionate amount of awesome web tools (very useful!) | https://tinywow.com
@@ -25,9 +26,11 @@ A collection of links that I've found incredibly useful during my journey as a d
 
 #### Social Sizes | Sizes for popular social media banners, images, etc. | https://socialsizes.io
 
+
 # CSS
 
 #### Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/ 
+
 
 # Design
 
@@ -36,6 +39,7 @@ A collection of links that I've found incredibly useful during my journey as a d
 #### Codepen.io | An awesome source for frontend code snippets | https://codepen.io
 
 #### Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
+
 
 # Database Solutions
 
@@ -54,6 +58,9 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Zod | Schema Declarations and Validations - Validate anything |  https://zod.dev 
 
+# Learning Resources
+
+#### Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
 
 # Inspiration
 
