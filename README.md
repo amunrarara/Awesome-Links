@@ -58,6 +58,10 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Zod | Schema Declarations and Validations - Validate anything |  https://zod.dev 
 
+# Security
+
+#### JWT Best Practices | https://hasura.io/blog/best-practices-of-using-jwt-with-graphql
+
 # Learning Resources
 
 #### Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
