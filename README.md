@@ -58,6 +58,10 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Zod | Schema Declarations and Validations - Validate anything |  https://zod.dev 
 
+# Monorepos
+
+#### Monorepo Guide | Excellent and concise guidebook for creating and maintaining monorepos | https://monorepo.guide
+
 # Security
 
 #### JWT Best Practices | https://hasura.io/blog/best-practices-of-using-jwt-with-graphql
