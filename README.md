@@ -58,21 +58,27 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Zod | Schema Declarations and Validations - Validate anything |  https://zod.dev 
 
+
 # State Management Libraries
 
 #### Zustand | https://github.com/pmndrs/zustand#typescript-usage | Documentation: https://docs.pmnd.rs/zustand/recipes/recipes
 
 #### Jotai | https://jotai.org
 
+#### RxJS | For vanilla JS (non-React) projects | https://rxjs.dev
+
 ### useSWR | Data Fetching + Caching | https://swr.vercel.app
+
 
 # Monorepos
 
 #### Monorepo Guide | Excellent and concise guidebook for creating and maintaining monorepos | https://monorepo.guide
 
+
 # Security
 
 #### JWT Best Practices | https://hasura.io/blog/best-practices-of-using-jwt-with-graphql
+
 
 # Learning Resources
 
