@@ -26,6 +26,8 @@ A collection of links that I've found incredibly useful
 
 #### Social Sizes | Sizes for popular social media banners, images, etc. | https://socialsizes.io
 
+#### Standard Resume | Resume Builder for the 21st Century | https://standardresume.co/tech
+
 
 # CSS
 
@@ -83,6 +85,7 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 # Learning Resources
 
 #### Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
+
 
 # Inspiration
 
