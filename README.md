@@ -88,6 +88,12 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
 
+# Info Sources
+
+#### Fireship | Check out their daily Code Report | https://www.youtube.com/@Fireship
+
+#### Devographics | Surveys and data visualizations for the state of the programming craft | https://survey.devographics.com
+
 
 # Inspiration
 
