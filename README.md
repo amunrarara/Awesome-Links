@@ -88,6 +88,10 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
 
+#### Kevin Powell | THE CSS Guy | https://www.youtube.com/@KevinPowell
+
+#### Jack Herrington AKA Blue Collar Coder | THE React Guy, and more | https://www.youtube.com/@jherr
+
 # Info Sources
 
 #### Fireship | Check out their daily Code Report | https://www.youtube.com/@Fireship
