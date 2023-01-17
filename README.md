@@ -92,6 +92,8 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### Jack Herrington AKA Blue Collar Coder | THE React Guy, and more | https://www.youtube.com/@jherr
 
+#### Containerized Dev Environments with Docker | Create and configure a Docker container to spin up an isolated, deterministically-generated instance of the ideal dev environment for each product / microservice | https://learn.microsoft.com/en-us/training/modules/use-docker-container-dev-env-vs-code/
+
 # Info Sources
 
 #### Fireship | Check out their daily Code Report | https://www.youtube.com/@Fireship
