@@ -87,6 +87,9 @@ There's just so many in this world... Here's a few I'm keeping my eye on:
 
 #### JWT Best Practices | https://hasura.io/blog/best-practices-of-using-jwt-with-graphql
 
+# Decentralized Systems
+
+#### Enter The Matrix | Brendan Abolivier's Primer on the Matrix Messaging Protocol | https://brendan.abolivier.bzh/enter-the-matrix/
 
 # Learning Resources
 
