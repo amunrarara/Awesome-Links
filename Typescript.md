@@ -16,6 +16,8 @@
 
 - useSWR | Data Fetching + Caching | https://swr.vercel.app
 
+- XState | JS State Machines and Statecharts | https://xstate.js.org
+
 # Monorepos
 
 - Monorepo Guide | Excellent and concise guidebook for creating and maintaining monorepos | https://monorepo.guide
