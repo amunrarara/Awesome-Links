@@ -34,3 +34,28 @@
 - Codepen.io | An awesome source for frontend code snippets | https://codepen.io
 
 - Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
+
+
+# Learning Resources
+
+- Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
+
+- Kevin Powell | THE CSS Guy | https://www.youtube.com/@KevinPowell
+
+- Jack Herrington AKA Blue Collar Coder | THE React Guy, and more | https://www.youtube.com/@jherr
+
+- Containerized Dev Environments with Docker | Create and configure a Docker container to spin up an isolated, deterministically-generated instance of the ideal dev environment for each product / microservice | https://learn.microsoft.com/en-us/training/modules/use-docker-container-dev-env-vs-code/
+
+# Info Sources
+
+- Fireship | Check out their daily Code Report | https://www.youtube.com/@Fireship
+
+- Devographics | Surveys and data visualizations for the state of the programming craft | https://survey.devographics.com
+
+# Inspiration
+
+- Awwwards | Award-winning websites | https://awwwards.com
+
+- Httpster | Web design inspirations | https://httpster.net
+
+- Behance | Designs and more | https://behance.net
