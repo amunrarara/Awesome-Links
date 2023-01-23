@@ -26,3 +26,11 @@
 # Assets
 
 - Picryl | A huge collection of public-domain image assets | https://picryl.com
+
+# Design
+
+- ColorDesigner.io | https://colordesigner.io
+
+- Codepen.io | An awesome source for frontend code snippets | https://codepen.io
+
+- Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
