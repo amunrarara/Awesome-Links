@@ -35,6 +35,8 @@
 
 - Slider Revolution | This company sells a paid WordPress template, but their free Resources section is full of excellent CSS elements: https://www.sliderrevolution.com/resources
 
+- Wireframing Automation and AI in UX Design | An Adobe article that's interesting and worth a read | https://xd.adobe.com/ideas/process/wireframing/wireframing-automation-ai-ux-design/
+
 
 # Learning Resources
 
