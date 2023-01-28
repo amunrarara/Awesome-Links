@@ -23,6 +23,8 @@
 
 - Anvil | APIs for Sophisticated PDF Workflows | https://www.useanvil.com
 
+- Future Tools | Cool tools for the new age | https://www.futuretools.io/?tags=prompt-guides
+
 # Assets
 
 - Picryl | A huge collection of public-domain image assets | https://picryl.com
