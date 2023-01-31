@@ -2,6 +2,9 @@
 
 - Patterns.dev | Programming design patterns, through the lens of JavaScript | https://patterns.dev
 
+# Web Dev Tools
+- Can I Use? | Verify cross-browser support for various feature sets | https://caniuse.com
+
 # Utilities / Tools
 - HomeRow | One of the coolest UI navigation tools around for MacOS | https://www.homerow.app
 
