@@ -1,6 +1,8 @@
-# CSS Links
+# Design & CSS Links
 
 ### Build Excellent Websites | The companion website to an awesome Andy Bell presentation. Presents a series of links that could be considered FUNDAMENTAL to web / responsive design| https://buildexcellentwebsit.es
+
+- Resilient Web Design | Read it! | https://resilientwebdesign.com
 
 - Branding Style Guides | https://brandingstyleguides.com
 
