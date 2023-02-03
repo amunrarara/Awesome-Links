@@ -7,7 +7,7 @@ A collection of links that I've found incredibly useful. Think of it as my perso
 ## Table of Contents
 ### [General](/General.md)
 ### [JavaScript / Typescript](/Typescript.md)
-### [CSS](/CSS.md)
+### [Design & CSS](/DesignAndCSS.md)
 ### [Databases](/Databases.md)
 ### [Decentralized Systems](DecentralizedSystems.md)
 ### [Security](/Security.md)
