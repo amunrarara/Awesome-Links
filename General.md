@@ -2,8 +2,9 @@
 
 - Patterns.dev | Programming design patterns, through the lens of JavaScript | https://patterns.dev
 
-# Web Dev Tools
+# Dev Tools
 - Can I Use? | Verify cross-browser support for various feature sets | https://caniuse.com
+- ESLint Nibble | Laundry list of lint errors got you down? Take them one at a time, with better explanations, and an auto-fix feature to boot | https://github.com/IanVS/eslint-nibble
 
 # Utilities / Tools
 - HomeRow | One of the coolest UI navigation tools around for MacOS | https://www.homerow.app
