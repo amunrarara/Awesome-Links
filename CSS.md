@@ -2,6 +2,8 @@
 
 ### Build Excellent Websites | The companion website to an awesome Andy Bell presentation. Presents a series of links that could be considered FUNDAMENTAL to web / responsive design| https://buildexcellentwebsit.es
 
+- Branding Style Guides | https://brandingstyleguides.com
+
 - Utopia | Fluid responsive design principles | https://utopia.fyi
 
 - Andy Bell's Modern CSS Reset | https://piccalil.li/blog/a-modern-css-reset/
