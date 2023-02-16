@@ -24,3 +24,6 @@
 - Monorepo Guide | Excellent and concise guidebook for creating and maintaining monorepos | https://monorepo.guide
 
 - TurboRepo | Lightning-fast project-wide command execution tool | https://turbo.build
+
+# Learning Resources
+- Total Typescript | Become a Typescript wizard, by Matt Pocock | https://www.totaltypescript.com
