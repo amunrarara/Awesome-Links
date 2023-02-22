@@ -23,6 +23,8 @@
 
 - Monorepo Guide | Excellent and concise guidebook for creating and maintaining monorepos | https://monorepo.guide
 
+- A quick, concise guide to Yarn Workspaces with TypeScript | https://spin.atomicobject.com/2022/02/07/typescript-project-workspaces
+
 - TurboRepo | Lightning-fast project-wide command execution tool | https://turbo.build
 
 # Learning Resources
