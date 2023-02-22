@@ -9,6 +9,8 @@
 # Utilities / Tools
 - HomeRow | One of the coolest UI navigation tools around for MacOS | https://www.homerow.app
 
+- Yabai | Outstanding open source window tiling system | https://www.josean.com/posts/yabai-setup (setup blog post)
+
 - TinyWow - A disproportionate amount of awesome web tools (very useful!) | https://tinywow.com
 
 - Back4App - A huge collection of public databases and APIs | https://www.back4app.com/
