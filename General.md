@@ -9,6 +9,8 @@
 # Utilities / Tools
 - HomeRow | One of the coolest UI navigation tools around for MacOS | https://www.homerow.app
 
+- Raycast | Powerful MacOS productivity tool, like Spotlight / Alfred | https://www.raycast.com
+
 - Yabai | Outstanding open source window tiling system | https://www.josean.com/posts/yabai-setup (setup blog post)
 
 - TinyWow - A disproportionate amount of awesome web tools (very useful!) | https://tinywow.com
