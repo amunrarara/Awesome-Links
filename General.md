@@ -2,6 +2,9 @@
 
 - Patterns.dev | Programming design patterns, through the lens of JavaScript | https://patterns.dev
 
+# IDE
+- Synthwave X Theme for VSCode | Hands down the COOLEST VSCode theme | https://github.com/thecodemonkey/synthwave-x-fluoromachine-epic-animations
+
 # Dev Tools
 - Can I Use? | Verify cross-browser support for various feature sets | https://caniuse.com
 - ESLint Nibble | Laundry list of lint errors got you down? Take them one at a time, with better explanations, and an auto-fix feature to boot | https://github.com/IanVS/eslint-nibble
