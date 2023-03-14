@@ -57,6 +57,8 @@
 
 # Learning Resources
 
+- Hacksplaining | Learn about all sorts of common exploits | https://www.hacksplaining.com
+
 - Scrimba | Incredible courses, with a built-in code editor that records the teacher's activities, allowing in-lesson edits and note-taking to the teacher's actual code | https://scrimba.com
 
 - Kevin Powell | THE CSS Guy | https://www.youtube.com/@KevinPowell
