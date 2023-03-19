@@ -7,6 +7,8 @@
 
 - Zod | Schema Declarations and Validations - Validate anything | https://zod.dev
 
+- Stencil | A Web Component library | https://stenciljs.com/docs/introduction
+
 # State Management Libraries
 
 - Zustand | https://github.com/pmndrs/zustand#typescript-usage | Documentation: https://docs.pmnd.rs/zustand/recipes/recipes
