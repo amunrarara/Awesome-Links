@@ -7,7 +7,7 @@
 
 - Zod | Schema Declarations and Validations - Validate anything | https://zod.dev
 
-- Stencil | A Web Component library | https://stenciljs.com/docs/introduction
+- Stencil | A Compiler for Web Components | https://stenciljs.com/docs/introduction
 
 # State Management Libraries
 
