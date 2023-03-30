@@ -15,3 +15,5 @@
 - SheCodes | Cheat Sheets, Code Snippets, and CSS Tools | https://cheatsheets.shecodes.io
 
 - Creative Section Shapes | An awesome tutorial and codebase from Kevin Powell | https://github.com/kevin-powell/creative-section-shapes
+
+- Removal AI | Removes the background from any image, really good | https://removal.ai
