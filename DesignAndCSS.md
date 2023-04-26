@@ -19,3 +19,6 @@
 - Removal AI | Removes the background from any image, really good | https://removal.ai
 
 - TypeScale | Generate font sizes with harmonic resonance | https://typescale.com/
+
+- Neumorphism.io | SoftUI-CSS Generator | https://neumorphism.io
+
